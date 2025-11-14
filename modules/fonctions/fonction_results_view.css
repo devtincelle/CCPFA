@@ -1,0 +1,69 @@
+.filiere-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem; /* space between cards */
+}
+
+.card-filiere {
+    border-radius: 15px;
+    padding: 1.8rem 1.5rem;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card-filiere:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+/* Title & Version equally prominent */
+.card-header h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+.card-version {
+    font-style: italic;
+    color: #555;
+}
+
+/* Category */
+.card-category {
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Definition breathing space */
+.card-definition {
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+/* Filière */
+.card-filiere-text {
+    margin-bottom: 1.5rem;
+}
+
+/* Salaire table */
+.table-filiere th,
+.table-filiere td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Page link bottom-right */
+.card-footer {
+    padding: 0;
+}
+.card-footer .page-link {
+    font-weight: 600;
+    color: #007bff;
+    text-decoration: none;
+    transition: transform 0.2s;
+}
+.card-footer .page-link:hover {
+    transform: translateX(5px);
+}
