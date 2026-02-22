@@ -52,7 +52,7 @@ function ccpfa_generate_page_ahref($page_number):string{
     ob_start();
     ?>
         <a href="<?php echo ccpfa_generate_page_link($page_number )?>" target="_blank">
-            <br>Page de la convetion ><?= nl2br(esc_html($page_number ?? '-')); ?>
+            <br>Page de la convetion > <?= nl2br(esc_html($page_number ?? '-')); ?>
         </a>
     <?php
     $html = ob_get_clean();
