@@ -1,0 +1,156 @@
+[
+  {
+    "key": "producteur",
+    "start_line": null,
+    "job_title": {
+      "male": "Producteur",
+      "female": null
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": "1 administrative et commerciale",
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  },
+  {
+    "key": "directrice",
+    "start_line": null,
+    "job_title": {
+      "male": "Directrice",
+      "female": "Générale déléguée"
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": null,
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  },
+  {
+    "key": "directeurgeneraladjoint",
+    "start_line": null,
+    "job_title": {
+      "male": "Directeur général adjoint",
+      "female": null
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": "1 administrative et commerciale",
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  },
+  {
+    "key": "secretairegeneral",
+    "start_line": null,
+    "job_title": {
+      "male": "Secrétaire général",
+      "female": null
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": "1 administrative et commerciale",
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  },
+  {
+    "key": "directeuradministratifetfinancier",
+    "start_line": null,
+    "job_title": {
+      "male": "Directeur administratif et financier",
+      "female": null
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": null,
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  },
+  {
+    "key": "directeurjuridique",
+    "start_line": null,
+    "job_title": {
+      "male": "Directeur juridique",
+      "female": null
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": "1 administrative et commerciale",
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  },
+  {
+    "key": "producteurexecutif",
+    "start_line": null,
+    "job_title": {
+      "male": "Producteur exécutif",
+      "female": null
+    },
+    "article": "31_filieres",
+    "page_number": 34,
+    "table_number": 3,
+    "category": null,
+    "position": null,
+    "sector": null,
+    "filiere": "1 administrative et commerciale",
+    "definition": null,
+    "monthly_salary": null,
+    "daily_salary": null,
+    "weekly_salary": null,
+    "is_cadre": null,
+    "source": "IDCC-2412_B-3314_2015-03-01",
+    "parsing_id": "78744cac"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "start_line": null,
+      "name": "1 administrative et commerciale",
+      "number": 1,
+      "page_number": null,
+      "text": null,
+      "slug": "1-a",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    },
+    {
+      "start_line": null,
+      "name": "2 tronc commun",
+      "number": 2,
+      "page_number": null,
+      "text": null,
+      "slug": "2-t",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    },
+    {
+      "start_line": null,
+      "name": "3 animation 2d",
+      "number": 3,
+      "page_number": null,
+      "text": null,
+      "slug": "3-a",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    },
+    {
+      "start_line": null,
+      "name": "4 animation 3d",
+      "number": 4,
+      "page_number": null,
+      "text": null,
+      "slug": "4-a",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    },
+    {
+      "start_line": null,
+      "name": "5 volume",
+      "number": 5,
+      "page_number": null,
+      "text": null,
+      "slug": "5-v",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    },
+    {
+      "start_line": null,
+      "name": "6 motion capture",
+      "number": 6,
+      "page_number": null,
+      "text": null,
+      "slug": "6-m",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    },
+    {
+      "start_line": null,
+      "name": "7 artiste de complément",
+      "number": 7,
+      "page_number": null,
+      "text": null,
+      "slug": "7-a",
+      "article": null,
+      "source": "legifrance",
+      "parsing_id": [
+        881979
+      ]
+    }
+  ]
+]
